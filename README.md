@@ -1,6 +1,6 @@
 # Offline Chess
 
-Chess for school computer labs and old PCs: play the computer or a friend on the same PC. It is **one HTML file** (`FingerFuel-Chess.html`). There is nothing to install, no internet is needed, and there are no libraries or servers.
+Chess for offline use and old PCs: play the computer or a friend on the same PC. It is **one HTML file** (`OfflineChess.html`). There is nothing to install, no internet is needed, and there are no libraries or servers.
 
 **Runs on:** IE11, Chrome, Firefox and Edge. Not supported: IE8 to IE10.
 
@@ -10,14 +10,14 @@ Author: [github.com/animeshmahat](https://github.com/animeshmahat)
 
 ## Quick start
 
-1. Copy `FingerFuel-Chess.html` to the computer (a USB stick is fine).
+1. Copy `OfflineChess.html` to the computer (a USB stick is fine).
 2. Double-click the file. It opens in the default browser.
 3. Optional: right-click the file, choose *Send to > Desktop (create shortcut)*.
 
 For a clean window without browser tabs, create a Chrome shortcut whose target ends with:
 
 ```
---app=file:///C:/Path/To/FingerFuel-Chess.html
+--app=file:///C:/Path/To/OfflineChess.html
 ```
 
 ---
